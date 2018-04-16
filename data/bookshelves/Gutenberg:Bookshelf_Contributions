@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<meta charset="UTF-8"/>
+<title>Bookshelf How-To - Gutenberg</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Bookshelf_How-To","wgTitle":"Bookshelf How-To","wgCurRevisionId":21101,"wgRevisionId":21101,"wgArticleId":1997,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with broken file links","How-To","How-To and FAQ"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Bookshelf_How-To","wgRelevantArticleId":1997,"wgRequestId":"Wst3En8AAAEAABBose4AAAAH","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Gutenberg:Bookshelf_Contributions","wgInternalRedirectTargetUrl":"/wiki/Bookshelf_How-To"});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.gutenbook":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@086uzcd",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.redirect","mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="//www.gutenberg.org/w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.gutenbook&amp;only=styles&amp;skin=gutenbook"/>
+<script async="" src="//www.gutenberg.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=gutenbook"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.28.2"/>
+<meta name="keywords" content="books, ebooks, free, kindle, android, iphone, ipad"/>
+<meta name="google-site-verification" content="wucOEvSnj5kP3Ts_36OfP64laakK-1mVTg-ptrGC9io"/>
+<meta name="alexaVerifyID" content="4WNaCljsE-A82vP_ih2H_UqXZvM"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="//www.gutenberg.org/w/opensearch_desc.php" title="Gutenberg (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//www.gutenberg.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="http://www.gnu.org/copyleft/fdl.html"/>
+<link rel="alternate" type="application/atom+xml" title="Gutenberg Atom feed" href="//www.gutenberg.org/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="http://www.gutenberg.org/wiki/Bookshelf_How-To"/>
+  <!-- Facebook -->
+  <meta property="og:title"        content="Project Gutenberg" />
+  <meta property="og:type"         content="website" />
+  <meta property="og:url"          content="http://www.gutenberg.org/" />
+  <meta property="og:description"  content="Project Gutenberg offers free ebooks to download." />    
+  <meta property="fb:admins"       content="615269807" />
+  <meta property="fb:app_id"       content="115319388529183" />
+  <meta property="og:site_name"    content="Project Gutenberg" />
+  <meta property="og:image"        content="http://www.gutenberg.org/pics/logo-144x144.png" />
+
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Bookshelf_How-To rootpage-Bookshelf_How-To skin-gutenbook action-view">
+  <div id="content">
+    <a name="top" id="top"></a>
+
+    
+    <h1 class="firstHeading">Bookshelf How-To</h1>
+    <p id="siteSub">From Project Gutenberg, the first producer of free ebooks.</p>
+
+        <div id="jump-to-nav">
+      Jump to:      <a href="#navigation">navigation</a>,
+      <a href="#p-wikisearch">search</a>
+      <hr class="hiddenStructure" />
+    </div>
+    
+    <div id="bodyContent">
+      <div id="contentSub">
+        <span class="mw-redirectedfrom">(Redirected from <a href="//www.gutenberg.org/w/index.php?title=Gutenberg:Bookshelf_Contributions&amp;redirect=no" class="mw-redirect" title="Gutenberg:Bookshelf Contributions">Gutenberg:Bookshelf Contributions</a>)</span>      </div>
+            
+      <!-- start content -->
+      <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><br />
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Basic_Outline_of_Bookshelf_Structure"><span class="tocnumber">1</span> <span class="toctext">Basic Outline of Bookshelf Structure</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#How_To_Create_a_New_Bookshelf_Category_and_Link_it"><span class="tocnumber">2</span> <span class="toctext">How To Create a New Bookshelf Category and Link it</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#How_to_Create_a_Bookshelf_Under_an_Existing_Category"><span class="tocnumber">3</span> <span class="toctext">How to Create a Bookshelf Under an Existing Category</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Headers"><span class="tocnumber">4</span> <span class="toctext">Headers</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Slightly_Smaller_Header"><span class="tocnumber">4.1</span> <span class="toctext">Slightly Smaller Header</span></a>
+<ul>
+<li class="toclevel-3 tocsection-6"><a href="#Even_Smaller_Header"><span class="tocnumber">4.1.1</span> <span class="toctext">Even Smaller Header</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Editing_Existing_Bookshelves"><span class="tocnumber">5</span> <span class="toctext">Editing Existing Bookshelves</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Using_Images"><span class="tocnumber">6</span> <span class="toctext">Using Images</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Project_Gutenberg.27s_policy_on_using_images:"><span class="tocnumber">6.1</span> <span class="toctext">Project Gutenberg's policy on using images:</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Templates"><span class="tocnumber">7</span> <span class="toctext">Templates</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Basic_Outline_of_Bookshelf_Structure">Basic Outline of Bookshelf Structure</span></h2>
+<ul><li><ul><li>Category: Categories</li></ul></li></ul>
+<p>	***Category: Bookshelf (i.e. Bookshelf)
+</p><p>		****Category: (i.e. Children’s Bookshelf)[this is a Subcategory]
+</p><p>			*****SubCategory: (i.e. Children’s Bookshelf)[this is a 		
+					Subcategory with Pages attached]. 
+</p><p>				******Children’s Fiction Bookshelf  [this is a Page with a 	
+					list of children’s books, hotlinked to books in 	
+					the PG database.
+</p>
+<h2><span class="mw-headline" id="How_To_Create_a_New_Bookshelf_Category_and_Link_it">How To Create a New Bookshelf Category and Link it</span></h2>
+<p>It is unlikely that you will ever create such a broad category. Most of us 
+seem to be adding bookshelves under Bookshelf Categories that have 
+been already created.  This is for informational purposes only. Check with 
+the Director and Webmaster before you create something on this level.
+</p><p><br />
+1. Log in to the Gutenberg Wiki. I prefer to use this login and have it 
+bookmarked on my browser:
+</p><p><a rel="nofollow" class="external free" href="https://www.gutenberg.org/wiki/Special:UserLogin">https://www.gutenberg.org/wiki/Special:UserLogin</a>
+</p><p><br />
+For an example of a properly constructed category, with attached bookshelves, go here:
+</p>
+<pre><a rel="nofollow" class="external free" href="https://www.gutenberg.org/wiki/Category:Crime_Bookshelf">https://www.gutenberg.org/wiki/Category:Crime_Bookshelf</a>
+</pre>
+<p><br />
+</p><p><br />
+</p><p>2. Once you’ve decided on your Bookshelf name, type it as part of this URL 
+into the address box at the top of the browser, like this:
+</p>
+<pre>https://www.gutenberg.org/wiki/Category:Education_Bookshelf</pre>
+add this to the page bottom:  <pre>[[Category:Bookshelf]]</pre>
+<p>This will create what you’ve done as a webpage, hanging off of Category.
+</p><p>In this instance,  an Education Bookshelf was created. On the left-hand 
+margin, go to Views and you can see the html behind this.
+</p>
+<h2><span class="mw-headline" id="How_to_Create_a_Bookshelf_Under_an_Existing_Category">How to Create a Bookshelf Under an Existing Category</span></h2>
+<p>1. Log into the wiki (see directions above)
+</p><p>2. Click on the Existing Category you want to build a bookshelf for. For 
+example, I’ve chosen the Law Bookshelf:
+</p>
+<div class="center"><div class="floatnone"><a href="/wiki/File:1.png" class="image"><img alt="1.png" src="//www.gutenberg.org/w/images/4/4a/1.png" width="936" height="776" /></a></div></div>
+<p><br />
+</p><p><br />
+</p><p><br />
+</p><p>3. Create a “Canon Law” Bookshelf within this broader category by typing a 
+new URL up above in the address box:
+</p>
+<pre>http://www.gutenberg.org/wiki/Canon_Law</pre>
+<p>This is what comes up:
+</p>
+<div class="center"><div class="floatnone"><a href="/wiki/File:2.png" class="image"><img alt="2.png" src="//www.gutenberg.org/w/images/f/fb/2.png" width="1231" height="607" /></a></div></div>
+<p><br />
+</p><p><br />
+Click on “edit this page”. You’ll get this:
+</p><p><br />
+</p>
+ <div class="center"><div class="floatnone"><a href="/wiki/File:3.png" class="image"><img alt="3.png" src="//www.gutenberg.org/w/images/1/10/3.png" width="1066" height="639" /></a></div></div>
+<p><br />
+</p><p><br />
+</p><p>Start Typing in your content. To Preview before the page goes live, click 
+the Preview button below.
+</p>
+<div class="center"><div class="floatnone"><a href="/wiki/File:4.png" class="image"><img alt="4.png" src="//www.gutenberg.org/w/images/0/09/4.png" width="776" height="685" /></a></div></div>
+<p><br />
+</p><p><br />
+What your preview looks like.
+</p>
+<div class="center"><div class="floatnone"><a href="/wiki/File:5.png" class="image"><img alt="5.png" src="//www.gutenberg.org/w/images/8/82/5.png" width="745" height="426" /></a></div></div>
+<p><br />
+</p><p><br />
+Hit the Save Button at the bottom to save your work. 
+</p><p><br />
+Keep your saved page open.
+</p><p><br />
+</p><p><br />
+4. Connect This Page to Others Above it In the Structure
+</p><p><br />
+Click on EDIT in the left margin. At the page bottom, type or “copy and 
+paste” this:
+</p><p><br />
+</p>
+<div class="floatleft"><a href="/wiki/File:15.png" class="image"><img alt="15.png" src="//www.gutenberg.org/w/images/d/d6/15.png" width="404" height="45" /></a></div>
+<p><br />
+</p><p><br /> 
+Replace “Law” with the name of the Bookshelf  your  page  belongs to.
+</p><p><br />
+</p>
+Be sure to add <pre>[[Category:Bookshelf]]</pre> in all sub-category pages. Otherwise the Bookshelf in which a book is does not appear in the bibrecord for the book (i.e. the Catalog).
+<p>SAVE your page.
+</p><p>Adding this will connect your new page with the larger Bookshelf and make 
+it part of an alpha listing on that page:
+</p>
+ <div class="center"><div class="floatnone"><a href="/wiki/File:6.png" class="image"><img alt="6.png" src="//www.gutenberg.org/w/images/f/f1/6.png" width="823" height="614" /></a></div></div>
+<p><br />
+5. Create Headers of Different Sizes
+</p><p><br />
+Type or Copy and Paste as follows:
+</p>
+ <div class="center"><div class="floatnone"><a href="/wiki/File:14.png" class="image"><img alt="14.png" src="//www.gutenberg.org/w/images/7/7b/14.png" width="324" height="113" /></a></div></div> 
+<p>and it will look like this:
+</p>
+<h1><span class="mw-headline" id="Headers">Headers</span></h1>
+<h2><span class="mw-headline" id="Slightly_Smaller_Header">Slightly Smaller Header</span></h2>
+<h3><span class="mw-headline" id="Even_Smaller_Header">Even Smaller Header</span></h3>
+<ul><li>Item as part of a list with a dot in front of it (i.e. Book in a list) For example:</li></ul>
+<ul><li> <a href="//www.gutenberg.org/ebooks/42525" class="extiw" title="ebook:42525">Anciennes loix des François conservées dans les 
+coutumes angloises recueillies, vol. I (French)</a>&#160;<a href="/wiki/File:BookIcon.png" class="image"><img alt="BookIcon.png" src="//www.gutenberg.org/w/images/9/92/BookIcon.png" width="16" height="16" /></a></li></ul>
+<ul><li> <a href="//www.gutenberg.org/ebooks/32298" class="extiw" title="ebook:32298">Anciennes loix des François conservées dans les 
+coutumes angloises recueillies, vol. II (French)</a>&#160;<a href="/wiki/File:BookIcon.png" class="image"><img alt="BookIcon.png" src="//www.gutenberg.org/w/images/9/92/BookIcon.png" width="16" height="16" /></a></li></ul>
+<p><br />
+</p><p>6. List the Books You Want Added
+</p><p>Standard format seems to be to create an author list, then slot the books in 
+below. For example:
+</p>
+ <div class="center"><div class="floatnone"><a href="/wiki/File:7.png" class="image"><img alt="7.png" src="//www.gutenberg.org/w/images/9/9e/7.png" width="1067" height="645" /></a></div></div>
+<p><br />
+Doing it this way lets you add additional books for each author and also 
+breaks up the page into a set of editable sections (see the “edit” links on 
+the right hand side). It also creates a nice list of authors at the top:
+</p>
+<div class="center"><div class="floatnone"><a href="/wiki/File:8.png" class="image"><img alt="8.png" src="//www.gutenberg.org/w/images/6/60/8.png" width="579" height="684" /></a></div></div>
+<p><br />
+7. Save Your Work
+</p><p><br />
+</p>
+<h1><span class="mw-headline" id="Editing_Existing_Bookshelves">Editing Existing Bookshelves</span></h1>
+<p>When expanding an existing bookshelf, it can be useful to filter out material already on the bookshelf from your search results.  To do this, use a catalog search something like this: <a rel="nofollow" class="external text" href="http://www.gutenberg.org/ebooks/search/?query=Norway+!+bsxNorway">Norway&#160;! bsxNorway</a>.  That will call up everything with "Norway" in the title, subjects, or elsewhere in the catalog record, but will exclude items that are on the "Norway" bookshelf.
+</p>
+<h1><span class="mw-headline" id="Using_Images">Using Images</span></h1>
+<p>Before you can add images to the page(s) you are working on, you must have 
+authorization to upload. This can be had either from the Webmaster (Marcello 
+Perathoner, as of this writing) or the Director (Gregory Newby). E-mail either 
+or both with your request. When you have the authorization, your left margin 
+will look like this when you have logged in:
+</p>
+<h2><span class="mw-headline" id="Project_Gutenberg.27s_policy_on_using_images:">Project Gutenberg's policy on using images:</span></h2>
+<p>Use images
+</p>
+<ul><li>	Use images from Wikimedia Commons.</li>
+<li>	Don't hotlink images from non-Wikimedia sites</li>
+<li>	Some prefer uploading a local copy in WordPress to make sure the </li></ul>
+<p>image doesn't go away in case it is renamed or deleted on 
+Commons. Make sure you appropriately credit the author and fulfill 
+the license requirements, and link back to the original image page on 
+Commons.
+</p>
+<ul><li>	To generate a thumbnail for a Commons image to use in a blog post </li></ul>
+<p>(either for uploading it locally to the blog, or for including it directly via 
+"Add Media" -&gt; "From URL" -&gt; "URL"): 
+o	Edit any wiki page in preview mode
+o	Insert "<a href="//www.gutenberg.org/w/index.php?title=Special:Upload&amp;wpDestFile=Example.jpg" class="new" title="File:Example.jpg">600px</a>" (with desired file name and 
+width in pixels)
+o	In the preview, right-click on the thumbnail to get the 
+thumbnail's URL or save it to your harddisk
+</p>
+<ul><li>	Add a caption; some people only skim through the text, but they look </li></ul>
+<p>at the pictures and read the caption. The caption(s) should 
+summarize the information developed in the article.
+7. Uploading Images and other Files
+</p><p>Once you have your images gathered and saved in an acceptable file type 
+(i.e. png, gif, jpg, jpeg, pdf, txt, map), you will be able to upload them.
+</p><p>Click on the "Upload" tool and this page will appear:
+</p><p><br /> 
+</p>
+<div class="center"><div class="floatnone"><a href="/wiki/File:9.png" class="image"><img alt="9.png" src="//www.gutenberg.org/w/images/7/7a/9.png" width="761" height="563" /></a></div></div>
+<p><br />
+</p><p>Use "Choose File" to select the jpg, gif or png file you've chosen to upload. 
+Then put an appropriate filename in the Destination filename box. It's 
+looking for something like filename.jpg  or filename.png.
+</p><p>Go to the bottom of the page and click "Upload File". You might get an 
+error message if you forgot to put the .jpg or .whatever in, so if that 
+happens redo your filename and try again.
+</p><p><br /> 
+</p>
+<div class="center"><div class="floatnone"><a href="/wiki/File:10.png" class="image"><img alt="10.png" src="//www.gutenberg.org/w/images/5/58/10.png" width="808" height="585" /></a></div></div>
+<p>After that's done, click on "Upload" again to upload the next one. I haven't 
+figured out how to do these in bulk yet. To double check that your pics have 
+successfully uploaded, the page has a link at the top that will take you to a 
+list. Uploads (not common on PG) are listed by date.
+</p><p><br /> 
+If you click on the "list of uploaded files", this is what you will see:
+</p>
+ <div class="center"><div class="floatnone"><a href="/wiki/File:11.png" class="image"><img alt="11.png" src="//www.gutenberg.org/w/images/5/59/11.png" width="1129" height="439" /></a></div></div>
+<p><br />
+Here is my imaginatively named png file #8, just uploaded.
+</p>
+ <div class="center"><div class="floatnone"><a href="/wiki/File:12.png" class="image"><img alt="12.png" src="//www.gutenberg.org/w/images/9/9e/12.png" width="956" height="567" /></a></div></div>
+<h1><span class="mw-headline" id="Templates">Templates</span></h1>
+<div style="float: right; clear: right; width: 33%; margin: 0.5em 0; padding: 0 0 0.5em 0.5em; background: white;"><div style="border: 1px solid #eddab7">
+<div style="background: #f5ecdb; color: #a01f13; margin: 0; padding: 0.3em 0.5em; font-weight: bold; font-size: 120%; text-align: center;"><a href="/wiki/File:Favorite-icon-48x48.png" class="image"><img alt="Favorite-icon-48x48.png" src="//www.gutenberg.org/w/images/d/d4/Favorite-icon-48x48.png" width="48" height="48" /></a> Editor's&#160;Choice</div>
+<div style="padding: 0.3em 0.5em;">
+<ul><li> <i>Good Book</i> by Good Writer</li>
+<li> <i>Another Good Book</i> by Another G. Writer</li></ul>
+<p>Jane:
+</p>
+<ul><li> <i>Still Better Book</i></li></ul>
+<p><a href="/wiki/User:Marcello" title="User:Marcello">highlander</a>:
+</p>
+<ul><li> <i>Even more bestest book</i> by Anonymous </li></ul>
+</div>
+</div>
+</div>
+<p>There are some templates intended to make bookshelves more attractive.
+</p>
+<ul><li> <a href="/wiki/Template:Ebook" title="Template:Ebook">Template:Ebook</a> Prints a <a href="//www.gutenberg.org/ebooks/12345" class="extiw" title="ebook:12345">link to the ebook page</a>&#160;<a href="/wiki/File:BookIcon.png" class="image"><img alt="BookIcon.png" src="//www.gutenberg.org/w/images/9/92/BookIcon.png" width="16" height="16" /></a> and puts a small book icon to the right.</li>
+<li> <a href="/wiki/Template:Abook" title="Template:Abook">Template:Abook</a> Prints a <a href="//www.gutenberg.org/ebooks/12345" class="extiw" title="ebook:12345">link to the ebook page</a>&#160;<a href="/wiki/File:AudioIcon.png" class="image"><img alt="AudioIcon.png" src="//www.gutenberg.org/w/images/c/c5/AudioIcon.png" width="24" height="24" /></a> and puts a small speaker icon to the right.</li>
+<li> <a href="/wiki/Template:1_Star" title="Template:1 Star">Template:1 Star</a> <a href="/wiki/File:Favorite-icon-16x16.png" class="image"><img alt="Favorite-icon-16x16.png" src="//www.gutenberg.org/w/images/8/86/Favorite-icon-16x16.png" width="16" height="15" /></a> Prints one small star. Use to mark good books in a list.</li>
+<li> <a href="/wiki/Template:2_Stars" title="Template:2 Stars">Template:2 Stars</a> <a href="/wiki/File:Favorite-icon-16x16.png" class="image"><img alt="Favorite-icon-16x16.png" src="//www.gutenberg.org/w/images/8/86/Favorite-icon-16x16.png" width="16" height="15" /></a> <a href="/wiki/File:Favorite-icon-16x16.png" class="image"><img alt="Favorite-icon-16x16.png" src="//www.gutenberg.org/w/images/8/86/Favorite-icon-16x16.png" width="16" height="15" /></a> Very good book</li>
+<li> <a href="/wiki/Template:3_Stars" title="Template:3 Stars">Template:3 Stars</a> <a href="/wiki/File:Favorite-icon-16x16.png" class="image"><img alt="Favorite-icon-16x16.png" src="//www.gutenberg.org/w/images/8/86/Favorite-icon-16x16.png" width="16" height="15" /></a> <a href="/wiki/File:Favorite-icon-16x16.png" class="image"><img alt="Favorite-icon-16x16.png" src="//www.gutenberg.org/w/images/8/86/Favorite-icon-16x16.png" width="16" height="15" /></a> <a href="/wiki/File:Favorite-icon-16x16.png" class="image"><img alt="Favorite-icon-16x16.png" src="//www.gutenberg.org/w/images/8/86/Favorite-icon-16x16.png" width="16" height="15" /></a> Oustandingly excellent book, wow!</li>
+<li> <a href="/wiki/Template:Editor%27s_Choice" title="Template:Editor's Choice">Template:Editor's Choice</a> Floats an editor's choice box to the right side of the page. <i>We have to decide if every editor gets his own box with maybe multiple boxes on a page or if we only put one "anonymous" box on each page whose contents we vote on.</i> <a href="/wiki/User:Marcello" title="User:Marcello">highlander</a> 11:42, 8 December 2006 (EST)</li></ul>
+<p><br />
+</p><p><br />
+</p><p><br />
+</p><p><br />
+</p><p><br />
+</p><p>CONCLUSION:
+</p><p>I copied and pasted the html in other people’s bookshelf pages to create 
+the current version of the Law Bookshelf. Marcello has provided the templates information. Please feel free to look at 
+this page and use anything you want from it. Much of the content can be cut and pasted from other pages into the one you
+are creating. Easy web-work at its best!
+</p><p>There are probably lots of errors in this manual. If you find one, please let 
+me know. I’ll be modifying this as I learn more. Here is my e-mail address. 
+I’d love to hear from you.
+</p><p><br />
+Elisabeth Mckechnie, user name: Xenitha
+</p><p>xenitha@hushmail.com
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20180409103945
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.111 seconds
+Real time usage: 0.215 seconds
+Preprocessor visited node count: 152/1000000
+Preprocessor generated node count: 458/1000000
+Post‐expand include size: 2239/2097152 bytes
+Template argument size: 690/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   25.981      1 - -total
+ 21.58%    5.608      1 - Template:Editor's_Choice
+ 17.21%    4.471      3 - Template:Ebook
+ 14.52%    3.772      1 - Template:Abook
+ 14.30%    3.715      1 - Template:Box-floatright
+ 13.48%    3.501      1 - Template:1_Star
+ 11.85%    3.079      2 - Template:Cat
+  8.31%    2.159      1 - Template:3_Stars
+  8.04%    2.090      1 - Template:2_Stars
+  7.41%    1.924      6 - Template:FaviconSmall
+-->
+
+<!-- Saved in parser cache with key gutenberg_wiki:pcache:idhash:1997-0!*!0!!en!5!* and timestamp 20180409103945 and revision id 21101
+ -->
+</div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="http://www.gutenberg.org/w/index.php?title=Bookshelf_How-To&amp;oldid=21101">http://www.gutenberg.org/w/index.php?title=Bookshelf_How-To&amp;oldid=21101</a>"</div>
+
+      <div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="//www.gutenberg.org/w/index.php?title=Category:Pages_with_broken_file_links&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages with broken file links (page does not exist)">Pages with broken file links</a></li><li><a href="/wiki/Category:How-To" title="Category:How-To">How-To</a></li><li><a href="/wiki/Category:How-To_and_FAQ" title="Category:How-To and FAQ">How-To and FAQ</a></li></ul></div></div>
+      <!-- end content -->
+    </div> <!-- bodyContent -->
+  </div> <!-- content -->
+
+  <div id="navigation">
+    <hr class="hiddenStructure" />
+    <h2 class="hiddenStructure">Navigation</h2>
+
+    <div class='portlet' id='p-logo'>
+      <div class="pBody">
+        <a href="/wiki/Main_Page" 
+           tabindex="10" title="Main Page"></a>
+      </div>
+    </div>
+
+    <div class='portlet' id='p-gutsearch'>
+      <h5>Search for Books</h5>
+      <div id="gutSearchBody" class="pBody">
+
+        <form method="get" action="/ebooks/search/"
+	      accept-charset="utf-8" enctype="multipart/form-data">
+          <fieldset>
+          <div>
+            <input type="text" value="" id="menu-book-search" name="query" class="searchInput" title="" alt="undefined string" tabindex="20" size="20" maxlength="80" />
+          </div>
+          </fieldset>
+        </form>
+
+        <ul>
+	      <li><a href="/catalog/" title="Go to the browse catalog page" tabindex="25">Browse Catalog</a>
+</li>
+<li><a href="/wiki/Category:Bookshelf" title="Go to the index of bookshelves page" tabindex="26">Bookshelves</a>
+</li>
+<li><a href="/wiki/Main_Page" title="Go to the Project Gutenberg site main page" tabindex="33">Main Page</a>
+</li>
+<li><a href="/wiki/Category:Categories" title="Go to the index of categories page" tabindex="34">Categories</a>
+</li>
+<li><a href="/wiki/Gutenberg:Contact_Information" title="Go to the contact information page" tabindex="36">Contact Info</a>
+</li>
+        </ul>
+      </div>
+    </div>
+
+
+    <div class='portlet' id='p-donate'>
+      <div class='pBody'>
+        Project Gutenberg appreciates your donation!
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+  <input type="hidden" name="cmd" value="_s-xclick" />
+  <input type="hidden" name="hosted_button_id" value="XKAL6BZL3YPSN" />
+  <input type="image" src="/pics/paypal/en_US.gif" name="submit" 
+         title="Donate now to Project Gutenberg through PayPal"
+         alt="Donate now to Project Gutenberg through PayPal" />
+</form>
+
+	<ul>
+	  <li>
+            <a href="/wiki/Gutenberg:Project_Gutenberg_Needs_Your_Donation" title="Get more info about donations to Project Gutenberg">Why donate?</a>
+          </li>
+	</ul>
+      </div>
+    </div>
+
+
+    
+    <div class='portlet' id='p-hosted'>
+      <div class="pBody">
+        <a href="http://www.ibiblio.org/index.html" title="Project Gutenberg is hosted by ibiblio"></a>
+      </div>
+    </div>
+
+  </div> <!-- navigation -->
+
+  <div id="footer">
+    <hr class="hiddenStructure" />
+    <h2 class="hiddenStructure">Page Footer</h2>
+
+    <ul id="f-list">
+	      <li id="lastmod"> This page was last modified on 29 April 2017, at 23:37.</li>
+            <li id="privacy"><a href="/wiki/Gutenberg:Privacy_policy" title="Gutenberg:Privacy policy">Privacy policy</a></li>
+            <li id="about"><a href="/wiki/Gutenberg:About" title="Gutenberg:About">About Gutenberg</a></li>
+            <li id="disclaimer"><a href="/wiki/Gutenberg:General_disclaimer" title="Gutenberg:General disclaimer">Disclaimers</a></li>
+          </ul>
+  </div> <!-- footer -->
+
+  <script type="text/javascript">
+    if (window.runOnloadHook) runOnloadHook ();
+  </script>
+
+  <script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":285});});</script>  <script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":285});});</script>
+</body>
+</html>
+
