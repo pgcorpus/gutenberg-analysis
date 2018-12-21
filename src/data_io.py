@@ -1,7 +1,65 @@
 """Functions to handle data I/O."""
 
 import numpy as np
+import os
 
+def get_book(pg_id, path_gutenberg = None, level = 'counts'):
+    '''
+    Retrieve the data from a single book.
+    pg_id, str: id of book in format 'PG12345'
+
+    OPTIONAL:
+    
+    path_gutenberg, str: location of directory of gutenberg data
+        default ../../gutenberg/
+
+
+    level, which granularity
+        - 'counts', dict(word,count) [default]
+        - 'tokens', list of tokens (str)
+        - 'text', single str
+
+    '''
+
+    ## location of the gutenberg data
+    if path_gutenberg == None:
+        path_gutenberg = os.path.join(os.pardir,os.pardir,'gutenberg')
+    if level == 'counts':
+        ## counts -- returns a dictionary {str:int}
+        path_read = os.path.join(path_gutenberg,'data','counts')
+        fname_read = '%s_counts.txt'%(pg_id)
+        filename = os.path.join(path_read,fname_read)
+        with open(filename,'r') as f:
+            x = f.readlines()
+
+        words = [h.split()[0] for h in x]
+        counts = [int(h.split()[1]) for h in x]
+        dict_word_count = dict(zip(words,counts))
+        return dict_word_count
+
+    elif level == 'tokens':
+        ## tokens --> returns a list of strings 
+        path_read = os.path.join(path_gutenberg,'data','tokens')
+        fname_read = '%s_tokens.txt'%(pg_id)
+        filename = os.path.join(path_read,fname_read)
+        with open(filename,'r') as f:
+            x = f.readlines()
+        list_tokens = [h.strip() for h in x]
+        return list_tokens
+
+    elif level == 'text':
+        ## text --> returns a string 
+        path_read = os.path.join(path_gutenberg,'data','text')
+        fname_read = '%s_text.txt'%(pg_id)
+        filename = os.path.join(path_read,fname_read)
+        with open(filename,'r') as f:
+            x = f.readlines()
+        text =  ' '.join([h.strip() for h in x])
+        return text
+
+    else:
+        print('ERROR: UNKNOWN LEVEL')
+        return None
 
 def get_dict_words_counts(filename):
     """
