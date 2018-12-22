@@ -10,16 +10,15 @@ The data is not included in this repository, but you can easily get in in two wa
 
 
 We assume that you have the two folders at the same level in your folder-hierarchy:
-1. 'gutenberg/' in which you have the data.
-2. 'gutenberg-analysis/'   with the code in this repository.
+1. `gutenberg/` in which you have the data.
+2. `gutenberg-analysis/`   with the code in this repository.
 
 
-You find example notebooks how to access and analyze the data in 'notebooks_tutorial'.
-- tutorial_01_how-to-read-a-book-metadata.ipynb
+You find example notebooks how to access and analyze the data in `notebooks_tutorial/`.
+- [Tutorial 01: Loading a book and metadata queries](notebooks_tutorial/tutorial_01_how-to-read-a-book-metadata.ipynb)
 has some basic examples on how to easily load a single book; or how to query the metadata to get a selection of books, e.g. from the same author.
-
 - more will be added.
 
-You find the notebooks we used to create the figures in our manuscript in 'notebooks_manuscript'.
+You find the notebooks we used to create the figures in our manuscript in `notebooks_manuscript`.
 
 
